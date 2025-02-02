@@ -17,7 +17,7 @@
 Hi there 👋 
 ---
 
-I'm Olga, a Data Scientist specializing in data visualization design
+I'm Olga, a Data Scientist specializing in data analysis and visualization design
 
 - :rainbow: **Pronouns**: She/Her/Hers 
 - :computer: **Coding**: R, Python, SQL, Shiny, Javascript
@@ -29,3 +29,21 @@ If you're interested in collaborating with me on a project, please [email me](ma
 <p align="left">
 </p>
 
+Gallery
+---
+<p align= "center">
+   <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/MakeovermondayW5/Dashboard1"> 
+   <img src="https://raw.githubusercontent.com/OlgaKuzminichna/visualizations/main/images/Happiness%20Race.png"  height="400px"  />
+   </a>
+   <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/VideoGames_17360333285300/Dashboard12"> 
+   <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/TheVideoGameEra.png"  height="400px"/> 
+   </a>
+   <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/InequalityinMexico/Dashboard12"> 
+   <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/InequalityMexico.png" height="400px"/> 
+   </a>
+   <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/workarrangement/Dashboard2"> 
+   <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/WorkArrangement.png" height="400px" /> 
+   </a>
+
+ </p> 
+  
