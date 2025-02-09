@@ -36,7 +36,7 @@ Data Science Projects
   <a href="https://github.com/OlgaKuzminichna/SentimentAnalysis/blob/main/Netflix.ipynb"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/Netflix.png" width="30%" /> </a>
   <a href="https://github.com/OlgaKuzminichna/10.AlgorithmicTrading"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/Trading.png" width="30%" /> </a>
   <a href="https://github.com/OlgaKuzminichna/12.HumanCapitalIndustralisation/tree/main"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/Education.png" width="30%" /> </a>
-  <a href = "https://github.com/OlgaKuzminichna/11.IrelandMacroOutlook"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/Inflation.png" width="30%" />  </a>
+  <a href = "https://github.com/OlgaKuzminichna/visualizations/blob/main/code/fifaplayers/fifaplayers.ipynb"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/football.png" width="30%" />  </a>
 </p>
 
 
