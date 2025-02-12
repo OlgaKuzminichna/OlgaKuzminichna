@@ -55,6 +55,9 @@ Gallery
    <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/workarrangement/Dashboard2"> 
    <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/WorkArrangement.png" height="400px" /> 
    </a>
+   <a href="https://github.com/OlgaKuzminichna/visualizations/blob/main/code/eurovision/eurovision.ipynb"> 
+   <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/eurovision.png" height="400px" /> 
+   </a>
 
  </p> 
   
