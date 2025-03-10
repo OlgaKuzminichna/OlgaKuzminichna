@@ -44,20 +44,23 @@ Gallery
 ---
 <p align= "center">
    <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/MakeovermondayW5/Dashboard1"> 
-   <img src="https://raw.githubusercontent.com/OlgaKuzminichna/visualizations/main/images/Happiness%20Race.png"  height="400px"  />
+   <img src="https://raw.githubusercontent.com/OlgaKuzminichna/visualizations/main/images/Happiness%20Race.png"  width="30%"  />
    </a>
    <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/VideoGames_17360333285300/Dashboard12"> 
-   <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/TheVideoGameEra.png"  height="400px"/> 
+   <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/TheVideoGameEra.png"   width="30%"/> 
    </a>
    <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/InequalityinMexico/Dashboard12"> 
-   <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/InequalityMexico.png" height="400px"/> 
+   <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/InequalityMexico.png"  width="30%"/> 
    </a>
    <a href="https://public.tableau.com/app/profile/olga.litvinova/viz/workarrangement/Dashboard2"> 
-   <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/WorkArrangement.png" height="400px" /> 
+   <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/WorkArrangement.png" width="30%" /> 
    </a>
    <a href="https://github.com/OlgaKuzminichna/visualizations/blob/main/code/eurovision/eurovision.ipynb"> 
-   <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/eurovision.png" height="400px" /> 
+   <img style="border:1px solid black" src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/eurovision.png"  width="30%" /> 
    </a>
 
  </p> 
-  
+
+Excel Templates
+---
+<a href="https://github.com/OlgaKuzminichna/excel_templates/tree/main"> VBA Excel Form Template </a>
