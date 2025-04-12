@@ -61,6 +61,6 @@ Gallery
 
  </p> 
 
-Excel Templates
+Power Apps& Power Automate & Excel
 ---
 <a href="https://github.com/OlgaKuzminichna/excel_templates/tree/main"> VBA Excel Form Template </a>
