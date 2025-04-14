@@ -64,7 +64,7 @@ Gallery
 Power Apps& Power Automate & Excel
 ---
 <p align="center">
-  <a href="https://github.com/OlgaKuzminichna/10.AlgorithmicTrading"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/PowerApps_Events.png" width="30%" /> </a>
-  <a href="https://github.com/OlgaKuzminichna/12.HumanCapitalIndustralisation/tree/main"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/PowerApps_Calendar.png" width="30%" /> </a>
+  <a href="https://github.com/OlgaKuzminichna/PowerApps_event"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/PowerApps_Events.png" width="30%" /> </a>
+  <a href="https://github.com/OlgaKuzminichna/PowerApps_Calendar"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/PowerApps_Calendar.png" width="30%" /> </a>
   <a href="https://github.com/OlgaKuzminichna/excel_templates/tree/main"> <img src="https://github.com/OlgaKuzminichna/visualizations/blob/main/images/Excel_Form.png" width="30%" /> </a>
 </p>
